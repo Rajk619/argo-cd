@@ -9,4 +9,4 @@ spec:
     app: swiggy
   ports:
     - port: 80
-      targetPort
+      targetPort: 80
